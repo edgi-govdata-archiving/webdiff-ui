@@ -20,5 +20,7 @@ If you don't have yarn, you can just run `npm install`, or:
 
 # Preview of currently-used Analyst spreadsheet:
 Part 1
+![Part 1 of Analyst Spreadsheet](https://cloud.githubusercontent.com/assets/6733241/22858197/d76cb55e-f06a-11e6-8451-acfcd20a6813.png)
 
 Part 2
+![Part 2 of Analyst Spreadsheet](https://cloud.githubusercontent.com/assets/6733241/22858196/d76c73fa-f06a-11e6-98e2-e2f2a0f65438.png)
