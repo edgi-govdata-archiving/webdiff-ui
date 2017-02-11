@@ -4,6 +4,7 @@ The UI for viewing the sites archive and diffs. React and Webpack with CSS Modul
 Data archive is populated by the (differ service)[https://github.com/edgi-govdata-archiving/differ] which produces batch diffs to be fed to this UI.
 
 # Goals of this Repo:
+* Make it easier, more efficient, less error-prone for analysts to recognize and appropriately classify diffs in pages.
 * Replace the currently-used Analyst spreadsheet with this UI (see screenshot preview below)
 * Provide a view of the diffs (vs. currenlty using versionista)
 * Enable classification of the diff changes 
