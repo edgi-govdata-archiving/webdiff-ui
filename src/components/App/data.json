@@ -1,0 +1,22 @@
+{
+  "sites": {
+    "12345": {
+      "UUID": 12345,
+      "agency": "EPA",
+      "siteName": "First Test",
+      "pageName": "Cool Page on First Test",
+      "URL": "https://www.epa.gov/",
+      "baseDate": "",
+      "latestDate": ""
+    },
+    "23456": {
+      "UUID": 23456,
+      "agency": "EPA",
+      "siteName": "Second Test",
+      "pageName": "The Best Page on 2nd Test",
+      "URL": "https://www.epa.gov",
+      "baseDate": "",
+      "latestDate": ""
+    }
+  }
+}
