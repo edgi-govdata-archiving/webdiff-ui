@@ -18,11 +18,10 @@ Part 2
 
 
 # Getting started
-Clone this repo and then `yarn` all the packages and fire it up with `npm start`. 
-
-###More details for newbies:
-If you don't have yarn, you can just run `npm install`, or:
-* update your version of node, must be ">5.0.0"
-* `brew update`
-* `brew install yarn`
-* run `yarn` to install the node modules
+* Clone this repo and then `yarn` all the packages
+ * If you don't have yarn, you can just run `npm install`, or:
+  * update your version of node, must be ">5.0.0"
+  * `brew update`
+  * `brew install yarn`
+  * run `yarn` to install the node modules
+*  Fire it up with `npm start`
